@@ -1,5 +1,10 @@
 .container {
-  max-width: 960px;
+  max-width: 1200px;
 }
 
 .lh-condensed { line-height: 1.25; }
+
+
+ul {
+    -webkit-padding-start:0px;
+}
